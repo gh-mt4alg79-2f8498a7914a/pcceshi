@@ -2,7 +2,7 @@
 
 [← 返回 pcceshi 内容导航](README.md)
 
-共 **97** 篇文章。此页面由 GitFlow Publisher 自动维护。
+共 **98** 篇文章。此页面由 GitFlow Publisher 自动维护。
 
 <!-- gitflow:articles:start -->
 - [2026年9月内部绝密预测:ｐｃ２８加拿大大小单双预测-嵩山财经](https://github.com/gh-mt4alg79-2f8498a7914a/pcceshi/blob/main/2026%E5%B9%B49%E6%9C%88%E5%86%85%E9%83%A8%E7%BB%9D%E5%AF%86%E9%A2%84%E6%B5%8B-%EF%BD%90%EF%BD%83%EF%BC%92%EF%BC%98%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%A7%E5%B0%8F%E5%8D%95%E5%8F%8C%E9%A2%84%E6%B5%8B-%E5%B5%A9%E5%B1%B1%E8%B4%A2%E7%BB%8F.md) <!-- gitflow:article:3d629b11042f3fd5d92d84d9cc11150c7a4cbb81b3676f13ef171eb1bd653674 -->
@@ -35,6 +35,7 @@
 - [2026年9月算法模型预测:𝒑𝒄𝟐𝟖直播-坤泰财经](https://github.com/gh-mt4alg79-2f8498a7914a/pcceshi/blob/main/2026%E5%B9%B49%E6%9C%88%E7%AE%97%E6%B3%95%E6%A8%A1%E5%9E%8B%E9%A2%84%E6%B5%8B-%F0%9D%92%91%F0%9D%92%84%F0%9D%9F%90%F0%9D%9F%96%E7%9B%B4%E6%92%AD-%E5%9D%A4%E6%B3%B0%E8%B4%A2%E7%BB%8F.md) <!-- gitflow:article:495a9185a794008bc512bdf418174e3fc5e8a98d4b5abb5de0907a2a2db8ee8d -->
 - [2026年9月红单预测:𝒑𝒄𝟐𝟖集团-汉武财经](https://github.com/gh-mt4alg79-2f8498a7914a/pcceshi/blob/main/2026%E5%B9%B49%E6%9C%88%E7%BA%A2%E5%8D%95%E9%A2%84%E6%B5%8B-%F0%9D%92%91%F0%9D%92%84%F0%9D%9F%90%F0%9D%9F%96%E9%9B%86%E5%9B%A2-%E6%B1%89%E6%AD%A6%E8%B4%A2%E7%BB%8F.md) <!-- gitflow:article:d8ffa34708a551c981aebf981a81a3f129459d52cd1781fb3beaf304b28f5130 -->
 - [2026年9月综合专家预测:𝚙𝚌𝟸𝟾结果预测计划-和泰财经](https://github.com/gh-mt4alg79-2f8498a7914a/pcceshi/blob/main/2026%E5%B9%B49%E6%9C%88%E7%BB%BC%E5%90%88%E4%B8%93%E5%AE%B6%E9%A2%84%E6%B5%8B-%F0%9D%9A%99%F0%9D%9A%8C%F0%9D%9F%B8%F0%9D%9F%BE%E7%BB%93%E6%9E%9C%E9%A2%84%E6%B5%8B%E8%AE%A1%E5%88%92-%E5%92%8C%E6%B3%B0%E8%B4%A2%E7%BB%8F.md) <!-- gitflow:article:098ac08c31ed64d51a1102502e94759c9b49dea70276730666f5c32de4db0be8 -->
+- [2026年9月综合前瞻预测:ｐｃ２８加拿大预测app-大宋财经](https://github.com/gh-mt4alg79-2f8498a7914a/pcceshi/blob/main/2026%E5%B9%B49%E6%9C%88%E7%BB%BC%E5%90%88%E5%89%8D%E7%9E%BB%E9%A2%84%E6%B5%8B-%EF%BD%90%EF%BD%83%EF%BC%92%EF%BC%98%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%A2%84%E6%B5%8Bapp-%E5%A4%A7%E5%AE%8B%E8%B4%A2%E7%BB%8F.md) <!-- gitflow:article:7205fed602f1ac8e9413639ed9ae5090c06bfc231cae1eb302219ccf94d8f4d0 -->
 - [2026年9月综合深度预测:加拿大𝚙𝚌𝟸𝟾输钱了-鸿泰财经](https://github.com/gh-mt4alg79-2f8498a7914a/pcceshi/blob/main/2026%E5%B9%B49%E6%9C%88%E7%BB%BC%E5%90%88%E6%B7%B1%E5%BA%A6%E9%A2%84%E6%B5%8B-%E5%8A%A0%E6%8B%BF%E5%A4%A7%F0%9D%9A%99%F0%9D%9A%8C%F0%9D%9F%B8%F0%9D%9F%BE%E8%BE%93%E9%92%B1%E4%BA%86-%E9%B8%BF%E6%B3%B0%E8%B4%A2%E7%BB%8F.md) <!-- gitflow:article:e5e34f5ccf873c771c1612239b97faa38e63f8077af7450ec6fd2e9df8912adb -->
 - [2026年9月综合精准预测:ｐｃ２８预测数字-太湖财经](https://github.com/gh-mt4alg79-2f8498a7914a/pcceshi/blob/main/2026%E5%B9%B49%E6%9C%88%E7%BB%BC%E5%90%88%E7%B2%BE%E5%87%86%E9%A2%84%E6%B5%8B-%EF%BD%90%EF%BD%83%EF%BC%92%EF%BC%98%E9%A2%84%E6%B5%8B%E6%95%B0%E5%AD%97-%E5%A4%AA%E6%B9%96%E8%B4%A2%E7%BB%8F.md) <!-- gitflow:article:e7a6c119733a8936e7a353997cd789c787111867bf86f1af33f9494e0484f00d -->
 - [2026年9月行业精选预测:ｐｃ２８算法预测-创新财经](https://github.com/gh-mt4alg79-2f8498a7914a/pcceshi/blob/main/2026%E5%B9%B49%E6%9C%88%E8%A1%8C%E4%B8%9A%E7%B2%BE%E9%80%89%E9%A2%84%E6%B5%8B-%EF%BD%90%EF%BD%83%EF%BC%92%EF%BC%98%E7%AE%97%E6%B3%95%E9%A2%84%E6%B5%8B-%E5%88%9B%E6%96%B0%E8%B4%A2%E7%BB%8F.md) <!-- gitflow:article:9ed96e5260944dfd42188a93071b7b0b13bc785a74d9f9b47c401b332e09b900 -->
